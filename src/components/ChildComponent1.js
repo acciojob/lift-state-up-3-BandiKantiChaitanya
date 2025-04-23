@@ -3,7 +3,7 @@ import './../styles/App.css';
 
 function ChildComponent1({setSelectedOption}) {
     function handleButton(){
-        setSelectedOption('option1')
+        setSelectedOption('Option 1')
     }
   return (
     <div className='child1' >
