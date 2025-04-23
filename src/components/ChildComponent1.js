@@ -8,7 +8,7 @@ function ChildComponent1({setSelectedOption}) {
   return (
     <div className='child1' >
         <h2>Child Component1</h2>
-        <button onClick={handleButton} >option 1</button>
+        <button onClick={handleButton} >Option 1</button>
     </div>
   )
 }
