@@ -4,7 +4,7 @@ import './../styles/App.css';
 function ChildComponent2({setSelectedOption}) {
 
     function handleButton(){
-        setSelectedOption('Option 2')
+        setSelectedOption(' Option 2')
     }
 
   return (
