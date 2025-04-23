@@ -1,1 +1,17 @@
-
+*{
+    margin: auto 0px;
+}
+.parent{
+    background-color: yellow;
+    padding: 20px;
+}
+.child1{
+    background-color: red;
+    margin: 20px 20px;
+    padding: 20px;
+}
+.child2{
+    background-color: orange;
+    margin: 20px 20px;
+    padding: 20px;
+}
